@@ -1,7 +1,7 @@
 # IDA105-2505468-TANISHA-BAIJU-SHUKLA-
 SmartCharging Analytics is an interactive Streamlit dashboard that uncovers EV charging behavior patterns through K-Means clustering, Apriori association rule mining, and multi-method anomaly detection — delivering real-time insights on station demand, costs, ratings, and infrastructure gaps across a fully filterable dataset.
 
-# SmartCharging Analytics
+# Smart Charging Analytics
 ### Uncovering EV Behavior Patterns 
 ---
 
@@ -85,7 +85,7 @@ Station ID, Latitude, Longitude, Address, Charger Type, Cost (USD/kWh), Availabi
 
 ## Streamlit Dashboard
 
-**Live Link**: [Add your deployed Streamlit link here]
+**Live Link**: https://smartcharginganalytics.streamlit.app/
 
 The dashboard includes five navigation sections: Project Scope with live KPIs, Data Preparation with full preprocessing documentation, EDA with six visualisation tabs, Advanced Analysis covering all three techniques, and About with the full rubric and submission checklist. All charts respond to sidebar filters for charger type, city, operator, installation year, and renewable source.
 
